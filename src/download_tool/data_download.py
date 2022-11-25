@@ -6,7 +6,7 @@ import multiprocessing
 import os
 
 import click
-from data_utils
+import data_utils
 from tqdm import tqdm
 
 
